@@ -116,7 +116,6 @@ function renderProducts(product) {
     productFigure.appendChild(productFigureImage);
     cardsContainer.appendChild(productCard);
 
-
   }
 }
 
