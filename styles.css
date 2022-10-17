@@ -242,6 +242,9 @@ aside {
 }
 
 /* PRODUCTS */
+.main-container{
+  display: block;
+}
 .cards-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, 240px);
